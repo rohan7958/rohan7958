@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohan7958
-- 👀 I’m interested in Data Science/ Machine Learning/ Deep Learning/ Computer Science/ Blockchain and interesting tech stuff.
-- 🌱 I’m currently learning Python/ SQL/ Statistics/ Machine Learning/ Deep Learning /DSA
+- 👀 I’m interested in Data Science/ Machine Learning/ Deep Learning and cutting-edge research in AI and tech stuff.
+- 🌱 I’m currently learning Python, SQL, Applied Statistics, Product Analytics, Machine Learning, and solving DSA problems.
 - 💞️ I’m looking to collaborate on ... (still deciding)
 - 📫 How to reach me ...(will update it soon)
 
